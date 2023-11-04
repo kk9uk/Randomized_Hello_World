@@ -1,7 +1,7 @@
 ## Usage
 `$ make`  
-`$ ./ripple`  
-`$ ./shuffle`  
+`$ ./Ripple`  
+`$ ./Shuffle`  
 `$ make clean`
 
 ## Analysis
