@@ -1,4 +1,4 @@
-#define TARGET "Halo!"
+#define TARGET "Hello world!"
 
 #include <cstdlib>
 #include <cstdio>
