@@ -4,6 +4,8 @@
 `$ ./shuffle`  
 `$ make clean`
 
-## Analysis (n = length of TARGET - 1)
-***ripple***: O(n) expected  
-***shuffle***: O(95^n) expected
+## Analysis
+*(n = length of TARGET)*  
+
+***Ripple***: O(n) expected  
+***Shuffle***: O(95^n) expected
