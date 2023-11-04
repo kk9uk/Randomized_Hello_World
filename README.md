@@ -1,2 +1,5 @@
-# Randomized-Hello-World
-Randomized algorithms to print "Hello world!" with painful theoretic guarantees.
+## Usage
+`$ make`  
+`$ ./ripple`  
+`$ ./shuffle`  
+`$ make clean`
