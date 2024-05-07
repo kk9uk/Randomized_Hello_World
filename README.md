@@ -1,8 +1,5 @@
 ## Usage
-`$ make`  
-`$ ./Ripple`  
-`$ ./Shuffle`  
-`$ make clean`
+    make -j $(nproc) && ./Ripple && ./Shuffle
 
 ## Analysis
 *(n = length of TARGET, 95 = number of printable ASCII characters)*  
