@@ -1,3 +1,4 @@
+![Ripple.gif](https://github.com/kk9uk/Randomized_Hello_World/blob/main/Ripple.gif)
 ## Usage
     make -j $(nproc) && ./Ripple && ./Shuffle
 
